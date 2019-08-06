@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "C:\\Awesome\\Dev\\Dev_Tool\\Anaconda\\envs\\django_envs\\python.exe",
+
+    "files.associations": {
+        "**/templates/*.html": "django-html",
+        "**/templates/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+
+    "emmet.includeLanguages": {"django-html": "html"},
+
+    "npm-intellisense.importES6": true,
+    "npm-intellisense.importQuotes": "'",
+    "npm-intellisense.importLinebreak": ";\r\n",
+    "npm-intellisense.importDeclarationType": "const",
+
+}
